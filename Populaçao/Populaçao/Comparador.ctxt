@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Comparador
+comment1.params=pessoa1\ pessoa2\ pessoa3
+comment1.target=void\ Comparacao(Populacao,\ Populacao,\ Populacao)
+comment2.params=pessoa1\ pessoa2\ pessoa3
+comment2.target=void\ MediaAlturaF(Populacao,\ Populacao,\ Populacao)
+comment3.params=pessoa1\ pessoa2\ pessoa3
+comment3.target=void\ MediaAlturaM(Populacao,\ Populacao,\ Populacao)
+numComments=4
